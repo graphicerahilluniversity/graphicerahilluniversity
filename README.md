@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/161058742?v=4" alt="Your Logo" width="200" height="200">
 </p>
-I'm a passionate graphic designer and student at Rahill University, exploring the realms of design and technology. Welcome to my GitHub profile!
+
 
 ## 👀 Interests
 - Graphic Design
@@ -20,7 +20,9 @@ I'm a passionate graphic designer and student at Rahill University, exploring th
 - Stable Diffussion
 
 ## 🌱 Currently Learning
-- Advanced Adobe Creative Suite techniques
+- Currently diving deep into AI, ML, and Deep Learning  
+- Always eager to learn and experiment with new technologies  
+- Actively contributing to Automation Club projects  
 - Frontend Web Development
 - Motion Graphics
 - Design Thinking principles
