@@ -1,6 +1,8 @@
 # Hi there, I'm Graphian's 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=graphicerahilluniversity)
-
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/161058742?v=4" alt="Your Logo" width="200" height="200">
+</p>
 I'm a passionate graphic designer and student at Rahill University, exploring the realms of design and technology. Welcome to my GitHub profile!
 
 ## 👀 Interests
@@ -28,9 +30,9 @@ I'm a passionate graphic designer and student at Rahill University, exploring th
 I'm open to collaborating on design projects, especially those related to web design, branding, and digital art. Let's create something amazing together!
 
 ## 📫 How to Reach Me
-- Email: [your.email@example.com](mailto:gehuautocell@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/company/graphic-era-hilluniversity)
-- Instagram: [@your_instagram_handle](https://www.instagram.com/graphicerahilluniversity/)
+- Email: [Automation Cell](mailto:gehuautocell@gmail.com)
+- LinkedIn: [Graphic Era Hill University](https://www.linkedin.com/company/graphic-era-hilluniversity)
+- Instagram: [Graphic Era Hill University](https://www.instagram.com/graphicerahilluniversity/)
 
 ## 😄 Pronouns
 She/Her
